@@ -1,3 +1,21 @@
+// Structure
+struct Square<T> {
+    area: f64,
+    edge: T
+}
+
+struct Triangle {
+    base:f64,
+    edge: f64
+}
+
+struct Pyramid<T,H> {
+    base: T,
+    height: H
+}
+
+//Traits
+
 fn main() {
     let square = Square::<u32>::new(5);
     let square_float = Square::<f64>::new(5.4);
