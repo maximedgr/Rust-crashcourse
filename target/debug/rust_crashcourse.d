@@ -1,0 +1,1 @@
+C:\Users\MAXD0\Desktop\ESILV\A4\Rust\ Programming\Crashcourse1\Rust-crashcourse\target\debug\rust_crashcourse.exe: C:\Users\MAXD0\Desktop\ESILV\A4\Rust\ Programming\Crashcourse1\Rust-crashcourse\src\main.rs
